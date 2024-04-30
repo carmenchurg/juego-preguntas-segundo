@@ -1,0 +1,244 @@
+{
+    "title": "Datos históricos de Aranjuez",
+    "id_test": "",
+    "description": "Conoce fechas y datos sobre la historia de Aranjuez y sus lugares",
+    "author": "Carmen Ruiz González",
+    "img_feature": {
+        "url": "./img/.jpg",
+        "alt": ""
+    },
+    "questions": [
+        {
+            "id": 1,
+            "question": "¿Qué tipo de teatro es el Teatro Real Carlos III?",
+            "answer": {
+                "a": "Un teatro cubierto",
+                "b": "Un teatro al aire libre",
+                "c": "Un teatro romano",
+                "d": "Un anfiteatro"
+            },
+            "results": {
+                "a": true,
+                "b": false,
+                "c": false,
+                "d": false
+            },
+            "img": {
+                "url": "img/pregunta1.jpg",
+                "alt": "Question 1",
+                "desc": "Teatro Real Carlos III"
+            },
+            "hint": "Es un tipo de teatro que está protegido por un techo o cubierta.",
+            "curiosity": "El Teatro Real Carlos III es uno de los pocos teatros del siglo XVIII que se conservan en España en su estado original. Fue construido entre 1768 y 1788 por orden de Carlos III, y es considerado uno de los mejores ejemplos de teatro neoclásico en España."
+        },
+        {
+            "id": 2,
+            "question": "¿En qué año reabrió sus puertas el Teatro Real Carlos III tras su rehabilitación?",
+            "answer": {
+                "a": "1950",
+                "b": "1970",
+                "c": "2000",
+                "d": "1991"
+            },
+            "results": {
+                "a": false,
+                "b": false,
+                "c": false,
+                "d": true
+            },
+            "img": {
+                "url": "img/pregunta1.jpg",
+                "alt": "Question 2",
+                "desc": "Teatro Real Carlos III"
+            },
+            "hint": "Fue en la década de los 90.",
+            "curiosity": "Reabrió sus puertas en 1991 tras su rehabilitación, durante la década de los 90."
+        },
+        {
+            "id": 3,
+            "question": "¿Qué estilo arquitectónico predomina en el Real Convento de San Pascual Bailón?",
+            "answer": {
+                "a": "Modernista",
+                "b": "Barroco",
+                "c": "Gótico",
+                "d": "Neoclásico"
+            },
+            "results": {
+                "a": false,
+                "b": false,
+                "c": false,
+                "d": true
+            },
+            "img": {
+                "url": "img/pregunta2.jpg",
+                "alt": "Question 3",
+                "desc": "Convento de San Pascual Bailón"
+            },
+            "hint": "Es un estilo arquitectónico que surgió en el siglo XVIII como reacción al barroco.",
+            "curiosity": "Predomina el estilo arquitectónico neoclásico, surgido en el siglo XVIII como reacción al barroco."
+        },
+        {
+            "id": 4,
+            "question": "¿Quién ordenó la construcción del edificio neoclásico H. de San Carlos en 1776?",
+            "answer": {
+                "a": "El presidente del Ayuntamiento de Aranjuez",
+                "b": "El médico titular de Aranjuez, D. Juan Bautista Cutanda",
+                "c": "El arquitecto Manuel Serrano",
+                "d": "El rey Carlos III"
+            },
+            "results": {
+                "a": false,
+                "b": false,
+                "c": false,
+                "d": true
+            },
+            "img": {
+                "url": "img/pregunta3.jpg",
+                "alt": "Question 4",
+                "desc": "H. San Carlos"
+            },
+            "hint": "Fue un rey español conocido por su labor reformista y su impulso a las artes y las ciencias.",
+            "curiosity": "Ordenado a construir por el rey Carlos III en 1776."
+        },
+        {
+            "id": 5,
+            "question": "¿Qué institución recibió la cesión del edificio H. de San Carlos en 2017 para llevar a cabo su rehabilitación integral?",
+            "answer": {
+                "a": "Organización sin fines de lucro",
+                "b": "Ministerio de Cultura y Educación",
+                "c": "Ayuntamiento de la localidad",
+                "d": "Universidad Rey Juan Carlos"
+            },
+            "results": {
+                "a": false,
+                "b": false,
+                "c": false,
+                "d": true
+            },
+            "img": {
+                "url": "img/pregunta4.jpeg",
+                "alt": "Question 5",
+                "desc": "H. de San Carlos"
+            },
+            "hint": "Es una u. pública ubicada en la Comunidad de Madrid.",
+            "curiosity": "La Universidad Rey Juan Carlos recibió la cesión del edificio en 2017 para llevar a cabo su rehabilitación integral."
+        },
+        {
+            "id": 6,
+            "question": "¿Quién fue la persona que originalmente utilizó el edificio antes de que se convirtiera en el Centro Cultural Isabel de Farnesio?",
+            "answer": {
+                "a": "Bárbara de Braganza",
+                "b": "Isabel de Farnesio",
+                "c": "Fernando VI",
+                "d": "Carlos III"
+            },
+            "results": {
+                "a": true,
+                "b": false,
+                "c": false,
+                "d": false
+            },
+            "img": {
+                "url": "img/pregunta5.jpg",
+                "alt": "Question 6",
+                "desc": "B.B."
+            },
+            "hint": "Fue la esposa del rey Fernando VI de España y también su prima.",
+            "curiosity": "Originalmente utilizado por Bárbara de Braganza, esposa del rey Fernando VI, antes de su conversión en el centro cultural."
+        },
+        {
+            "id": 7,
+            "question": "¿Quiénes fueron los arquitectos que transformaron el edificio de las antiguas cocheras reales en el Centro Cultural Isabel de Farnesio?",
+            "answer": {
+                "a": "Jaime Marquet y Fernando VI",
+                "b": "Enrique de Teresa y Juan José Echeverría",
+                "c": "Isidro González Velázquez y Carlos III",
+                "d": "Bárbara de Braganza y Felipe V"
+            },
+            "results": {
+                "a": false,
+                "b": true,
+                "c": false,
+                "d": false
+            },
+            "img": {
+                "url": "img/pregunta5.jpg",
+                "alt": "Question 7",
+                "desc": "C.C. Isabel de Farnesio"
+            },
+            "hint": "Fueron dos arquitectos españoles contemporáneos que han trabajado en diversos proyectos arquitectónicos en España.",
+            "curiosity": "Fue realizada por los arquitectos Enrique de Teresa y Juan José Echeverría."
+        },
+        {
+            "id": 8,
+            "question": "¿Dónde se encuentra ubicada la Fuente de la Mariblanca?",
+            "answer": {
+                "a": "Plaza de Toros",
+                "b": "Plaza de Parejas",
+                "c": "Plaza de la Constitución",
+                "d": "Plaza de San Antonio"
+            },
+            "results": {
+                "a": false,
+                "b": false,
+                "c": false,
+                "d": true
+            },
+            "img": {
+                "url": "img/pregunta6.jpg",
+                "alt": "Question 8",
+                "desc": "Fuente de la Mariblanca"
+            },
+            "hint": "Está situada en una plaza del mismo nombre en Aranjuez, España.",
+            "curiosity": "Se encuentra en la Plaza de San Antonio en Aranjuez, España."
+        },
+        {
+            "id": 9,
+            "question": "¿Cuál fue el periodo de reinado de Isabel II en España?",
+            "answer": {
+                "a": "1868-1870",
+                "b": "1870-1900",
+                "c": "1868-1870",
+                "d": "1833-1868"
+            },
+            "results": {
+                "a": false,
+                "b": false,
+                "c": false,
+                "d": true
+            },
+            "img": {
+                "url": "img/pregunta7.jpg",
+                "alt": "Question 9",
+                "desc": "Isabel II"
+            },
+            "hint": "Fue una época tumultuosa marcada por conflictos políticos y sociales, incluida la Primera Guerra Carlista.",
+            "curiosity": "Reinó en España desde 1833 hasta 1868, una época tumultuosa marcada por conflictos políticos y sociales."
+        },
+        {
+            "id": 10,
+            "question": "¿Cuál fue el nombre completo de Isabel II?",
+            "answer": {
+                "a": "Isabel Ana María de Borbón",
+                "b": "Isabel Antonia María de Borbón",
+                "c": "Isabel Cristina María de Borbón",
+                "d": "Isabel Francisca María Teresa de Borbón"
+            },
+            "results": {
+                "a": false,
+                "b": false,
+                "c": false,
+                "d": true
+            },
+            "img": {
+                "url": "img/pregunta7.jpg",
+                "alt": "Question 10",
+                "desc": "Isabel II"
+            },
+            "hint": "Su nombre completo incluía varios nombres y apellidos de la familia real española.",
+            "curiosity": "Francisca María Teresa de Borbón, con varios nombres y apellidos de la familia real española."
+        }
+    ]
+}
+
+    
